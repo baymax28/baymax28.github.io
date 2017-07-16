@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Komal Kumar, the geek,launches site"
+title: "Komal Kumar, the geek, launches site"
 date: 2014-04-30
 ---
 
